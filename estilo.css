@@ -1,0 +1,82 @@
+body {
+    font: 18px normal Arial;
+    background-color: rgb(142, 142, 235);
+    
+}
+
+h2 { 
+    text-align: center;
+    color: rgb(55, 55, 59);
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#container1 {
+    border: 1px solid black;
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10%;
+    margin: auto;
+}
+
+#tela {
+    
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+input[type=text] {
+    font-size: 20px;
+    height: 50px;
+    width: 320px;
+    
+}
+
+#buttons1, #buttons2, #buttons3, #buttons4, #buttons5 {
+    margin-left: 40px;
+    margin-bottom: 15px;
+    margin-right: 10px ;
+}
+
+#buttons2, #buttons3, #buttons4, #buttons5 {
+    margin-left: 60px ;
+}
+
+input#limpar {
+    margin-left: 30px;
+    text-transform: uppercase;
+    width: 60px;
+    height: 60px;
+   
+}
+
+input[type=button] {
+    font-size: 14px;
+    height: 60px;
+    width: 50px;
+    margin-right: 5px;
+    font-weight: bold;
+        
+}
+
+input#X {
+    margin-left: 75px;
+    text-transform: uppercase;
+    width: 50px;
+}
+
+input#somar {
+    margin-left: 75px;
+    text-transform: uppercase;
+    width: 50px;
+}
+
+input#subtrair {
+    margin-left: 75px;
+    text-transform: uppercase;
+    width: 50px;
+}
